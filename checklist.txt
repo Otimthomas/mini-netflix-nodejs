@@ -1,0 +1,3 @@
+[] Authentication
+[] Authorization
+[] reminder to look at the new documentation of joi.
